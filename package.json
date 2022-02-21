@@ -23,12 +23,12 @@
     "eslint": "7.32.0",
     "eslint-config-prettier": "6.15.0",
     "eslint-plugin-eslint-comments": "3.2.0",
-    "eslint-plugin-import": "2.24.2",
+    "eslint-plugin-import": "2.25.4",
     "gh-pages": "3.1.0",
     "prettier": "2.5.1",
     "standard-version": "9.3.1",
     "ts-node": "10.2.1",
-    "typescript": "4.5.4"
+    "typescript": "4.5.5"
   },
   "prettier": {
     "singleQuote": true
